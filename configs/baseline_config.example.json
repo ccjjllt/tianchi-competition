@@ -1,0 +1,18 @@
+{
+  "mode": "offline",
+  "eval_date": "2014-12-18",
+  "predict_date": "2014-12-19",
+  "lookback_days": 10,
+  "decay": 0.85,
+  "topk": 20,
+  "topk_grid": "10,20,30",
+  "min_score": 0.0,
+  "chunksize": 1000000,
+  "max_rows_per_file": null,
+  "weights": {
+    "click": 1.0,
+    "favorite": 3.0,
+    "cart": 6.0,
+    "buy": 10.0
+  }
+}

@@ -1,0 +1,59 @@
+# =========================
+# Data files (do not upload)
+# =========================
+tianchi_fresh_comp_train_item_online.txt
+tianchi_fresh_comp_train_user_online_partA.txt
+tianchi_fresh_comp_train_user_online_partB.txt
+
+# =========================
+# Experiment artifacts
+# =========================
+outputs/
+logs/
+external_refs/
+
+# Optional local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# =========================
+# Python cache
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# =========================
+# Virtual environments
+# =========================
+.venv/
+venv/
+env/
+ENV/
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+*.code-workspace
+
+# =========================
+# OS junk files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Generic temp files
+# =========================
+*.tmp
+*.temp
+*.bak
