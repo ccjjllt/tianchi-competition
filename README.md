@@ -30,9 +30,6 @@
 │  ├─ run_14d_sprint_09.ps1
 │  └─ ...
 ├─ configs/                 # 配置样例
-├─ spec.md                  # 需求规格
-├─ tasks.md                 # 任务拆解
-├─ checklist.md             # 验收清单
 └─ requirements.txt
 ```
 
